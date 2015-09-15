@@ -1,5 +1,5 @@
 {
-  "name": "shapefile",
+  "name": "shp-stream",
   "version": "0.3.0",
   "description": "An implementation of the shapefile (.shp) spatial data format.",
   "keywords": [
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/mbostock/shapefile.git"
+    "url": "http://github.com/calvinmetcalf/shapefile.git"
   },
   "main": "./index.js",
   "dependencies": {
